@@ -91,8 +91,6 @@ I am an enthusiastic Python Developer who has hands-on experience in crafting so
 
 ---
 
-
-
 ### 📊 GitHub Stats:
 
 <table>
@@ -106,16 +104,20 @@ I am an enthusiastic Python Developer who has hands-on experience in crafting so
   </tr>
 </table>
 
+---
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bukachka23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bukachka23&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Bukachka23&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
 
