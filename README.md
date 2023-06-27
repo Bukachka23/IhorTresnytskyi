@@ -2,11 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer+and+Physicist)](https://git.io/typing-svg)
 
 
 ## About me  
 I am an enthusiastic Junior Python Developer who has hands-on experience in crafting software applications utilizing Python. I bring a powerful combination of technical competencies to the table, which include a firm grasp of Python programming, knowledge of software development methodologies, and a proficiency in widely-used Python libraries and frameworks.<br><br>Passionate about writing efficient, clean, and well-documented code, I thrive on problem-solving challenges and have honed this skill over time. My capacity to work effectively in a team setting, coupled with my excellent communication abilities, makes me a valuable team player. I am driven by a deep-seated passion for technology and software development, which keeps me engaged and eager to learn more.<br><br>I hold a Master's degree in Applied Physics, throughout which I've consistently showcased my practical skills via relevant projects and internships. This formal education, combined with my practical experience in Python development, allows me to bring a unique blend of theory and practice to my work.<br><br>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 ## 🌐 Socials:
