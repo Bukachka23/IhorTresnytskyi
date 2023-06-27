@@ -26,11 +26,6 @@ I am an enthusiastic Python Developer who has hands-on experience in crafting so
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/4ade2e78) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Magnumgrizzly#6599) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100080182684752) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ihor-tresnytskyi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MagnumGrizzly) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Beneficial-Bit-5058) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22138995) 
 
----
-
-### Activities:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bukachka23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -109,6 +104,12 @@ I am an enthusiastic Python Developer who has hands-on experience in crafting so
     </td>
   </tr>
 </table>
+
+---
+
+### Activities:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bukachka23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
