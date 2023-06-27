@@ -6,7 +6,7 @@
 
 
 ### :man_technologist: About me:
-I am an enthusiastic Junior Python Developer who has hands-on experience in crafting software applications utilizing Python. I bring a powerful combination of technical competencies to the table, which include a firm grasp of Python programming, knowledge of software development methodologies, and a proficiency in widely-used Python libraries and frameworks.
+I am an enthusiastic Python Developer who has hands-on experience in crafting software applications utilizing Python. I bring a powerful combination of technical competencies to the table, which include a firm grasp of Python programming, knowledge of software development methodologies, and a proficiency in widely-used Python libraries and frameworks.
 
 <p align="center">
   <img src="images/github-snake.svg" alt="snake" width="600" style="transition: transform .2s;"/>
@@ -110,3 +110,5 @@ I am an enthusiastic Junior Python Developer who has hands-on experience in craf
 [![](https://visitcount.itsvg.in/api?id=Bukachka23&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
