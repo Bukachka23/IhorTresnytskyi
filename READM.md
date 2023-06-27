@@ -11,6 +11,17 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+<p align="center">
+  <img src="assets/github-snake-red.svg" alt="snake" width="600" style="transition: transform .2s;"/>
+</p>
+
+<style>
+img:hover {
+    transform: scale(1.1);
+}
+</style>
+
+
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
