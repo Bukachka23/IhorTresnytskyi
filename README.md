@@ -12,6 +12,13 @@ I am an enthusiastic Python Developer who has hands-on experience in crafting so
   <img src="images/github-snake.svg" alt="snake" width="600" style="transition: transform .2s;"/>
 </p>
 
+- :telescope: Developed a project to create a graphical interface for modeling the life cycle of an electron as a defense of my master's thesis in collaboration with my professor of the Department of Theoretical Physics.
+
+- :seedling: Actively participated in developing desktop applications for my university!
+
+- :zap: As a Technical Support Engineer I maintain our cryptocurrency client service.
+
+- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dudols2000@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MagnumGrizzly)
 
 ---
 
