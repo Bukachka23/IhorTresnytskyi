@@ -28,6 +28,12 @@ I am an enthusiastic Python Developer who has hands-on experience in crafting so
 
 ---
 
+### Activities:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bukachka23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 💻 LANGUAGES:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
