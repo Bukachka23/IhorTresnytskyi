@@ -1,4 +1,6 @@
-<img src="me.png" alt="альтернативный текст">
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru](https://www.linkedin.com/in/ihor-tresnytskyi-372409227/)/" target="_blank">Ihor</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer)](https://git.io/typing-svg)
 
