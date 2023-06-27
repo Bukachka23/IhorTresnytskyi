@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer+and+Physicist)](https://git.io/typing-svg)
 
 
-## About me  
+### :man_technologist: About me:
 - :telescope: I am an enthusiastic Junior Python Developer who has hands-on experience in crafting software applications utilizing Python. I bring a powerful combination of technical competencies to the table, which include a firm grasp of Python programming, knowledge of software development methodologies, and a proficiency in widely-used Python libraries and frameworks.
 
 <p align="center">
